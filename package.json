@@ -1,0 +1,19 @@
+{
+  "name": "scrimba_modal",
+  "devDependencies": {
+    "webpack": "^2.0",
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "description": "return this.options.title || this.options.name; \t}",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Malluma",
+  "license": "ISC"
+}
